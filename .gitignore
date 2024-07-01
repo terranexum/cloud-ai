@@ -131,3 +131,9 @@ dist
 
 # .env
 .env
+
+#Data
+Data/
+
+#DS Store
+.DS_Store
