@@ -7,6 +7,8 @@ This project was completed in an internship at Terranexum. See [Terranexum's web
 In this project, I learned how to use several data visualization and analysis libraries in order to graph the greenhouse gas emissions occurring on the power grid. In order to do so, I had
 to research data sources showing major emission locations, power line locations, and emission quantities - and the sources that I found for that data are listed below under Data. Through creating visualizations, I was able to create maps (both static and interactive) that show major emission sources and their proximity to the power grid and find statistics on the percentage of emissions that occur very close to power infrastructure. 
 
+I made a presentation explaining the whole project: [Presentation](https://www.canva.com/design/DAGKZRCzDJY/rIGIveh886ghJYd3qBonLg/view?utm_content=DAGKZRCzDJY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 To use the notebooks, a user must download the necessary data for each notebook (each notebook has its required data in a header, and the links to download the data are below). It also may be necessary to download the below libraries.
 
 ## Major Libraries and Datasets
