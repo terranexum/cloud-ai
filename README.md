@@ -57,4 +57,4 @@ I also experimented with using Plotly for visualizations. Plotly is another libr
 - I began experimenting with using SRAI, an AI Python library that supports geospatial data analysis. I used SRAI to regionalize and embed spatial data about transmission lines in Denver, CO create a map showing the spatial distrobution of transmission lines in Denver. 
 ![Map of Denver transmission lines](https://github.com/terranexum/cloud-ai/blob/main/images/SRAI_Map.png)
 -I repeated the same process to show the density of transmission lines across Colorado as well. 
-![Map of Colorado transmission lines](https://github.com/terranexum/cloud-ai/blob/main/images/SRAI_Map_Colorado.png)
+![Map of Colorado transmission lines](https://github.com/terranexum/cloud-ai/blob/main/images/SRAI_Colorado_Map.png)
