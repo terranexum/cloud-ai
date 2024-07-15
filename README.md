@@ -18,6 +18,7 @@ To use the notebooks, a user must download the necessary data for each notebook 
 - [Geopandas](https://geopandas.org/en/stable/docs/user_guide.html)
 - [OSMnx](https://osmnx.readthedocs.io/en/stable/index.html)
 - [Plotly](https://plotly.com/)
+- [SRAI](https://github.com/kraina-ai/srai)
 
 ### Data
 - [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Map_features) (through OSMnx)
@@ -50,3 +51,10 @@ A major section of this project consisted of learning how to obtain, handle, and
 
 I also experimented with using Plotly for visualizations. Plotly is another library that allows for more interactive data visualization. In the below graph, the data in the graph being shown could be switched between three different data sets depending on a user selection. 
 ![Bar graph of CO2 emissisons with selection dial](https://github.com/terranexum/cloud-ai/blob/main/images/Plotly_BarGraph.png)
+
+## *AI data analysis using SRAI*
+
+- I began experimenting with using SRAI, an AI Python library that supports geospatial data analysis. I used SRAI to regionalize and embed spatial data about transmission lines in Denver, CO create a map showing the spatial distrobution of transmission lines in Denver. 
+![Map of Denver transmission lines](https://github.com/terranexum/cloud-ai/blob/main/images/SRAI_Map.png)
+-I repeated the same process to show the density of transmission lines across Colorado as well. 
+![Map of Colorado transmission lines](https://github.com/terranexum/cloud-ai/blob/main/images/SRAI_Map_Colorado.png)
